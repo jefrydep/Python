@@ -9,6 +9,6 @@
 - python indent
 
 ```
-tab f5 to runnig file program
+tab f5 to runnig  aplication  file
 
 ```
